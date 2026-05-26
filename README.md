@@ -14,8 +14,8 @@ En primer lugar, importamos nuestra base de datos a DBeaver por medio de postgre
 
 Una vez hecho todo esto, para poder visualizar el esquema de nuestra BBDD, hacemos click derecho en nuestra base de datos y seleccionamos la opción 'View diagram', con lo que nos mostrará nuestra BBDD y cómo se relacionan las tablas entre ellas. De manera similar, para poder comenzar con nuestro archivo SQL, hacemos click derecho en el archivo 'public' de nuestra base de datos, seleccionamos Editor SQL -> Nuevo script SQL.
 
-## ↔️ Esquema de la BBDD
+## 🧰 Esquema de la BBDD
 El archivo .sql correspondiente al esquema de la BBDD está disponible en el repositorio con el nombre _BBDD_Proyecto_shakila_Esquema_Miguel_Encinas.sql_.
 
-## 📓 SQL con las diferentes consultas
+## 📝 SQL con las diferentes consultas
 El archivo .sql con los enunciados de los problemas planteados, así como las consultas que los resuelven, está disponible en el repositorio con el nombre _BBDD_Proyecto_shakila_Miguel_Encinas.sql_.
