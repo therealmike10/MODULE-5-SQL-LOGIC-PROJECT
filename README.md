@@ -30,7 +30,7 @@ Por otro lado, nos encontramos con la otra parte de la BBDD, en la que podemos c
 A través de las diferentes consultas, hemos podido obtener una gran variedad de información acerca de los actores que participan en ciertas películas, número de películas alquiladas por cliente, películas que se alquilan por encima de X precio, etc. En este proyecto, cabe destacar el uso que he podido aplicar de los **diferentes tipos de JOIN** para poder relacionar varias tablas entre sí y obtener los datos solicitados. Asimismo, la realización de **diferentes tipos de subconsultas** también me ha permitido relizar consultas avanzadas, combinando varios requisitos en una misma _query_, permitiéndome así obtener información más concreta y precisa. Po último, la combinación y aplicación de otros comandos habitualmente empleados como **(NOT) EXISTS, Vistas, Tablas temporales y CTEs** me ha permitido entender y utilizar dichas herramientas para la optimización y reutilización de las consultas.
 
 En general, este proyecto me ha permitido:
-- Utilizar** PostgreSQL** y **DBeaver** para la visualización y manejo de BBDD
+- Utilizar **PostgreSQL** y **DBeaver** para la visualización y manejo de BBDD
 - **Entender una base de datos**, tantos las tablas individuales que la conforman como las relaciones que hay entre ellas
 - Utilizar diferentes **herramientas de SQL**, tanto básicas como avanzadas, permitiéndome obtener un mayor dominio del lenguaje
 - Utilizar **varios comandos diferentes** para poder obtener el mismo resultado
