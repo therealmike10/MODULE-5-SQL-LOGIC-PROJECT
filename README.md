@@ -19,3 +19,5 @@ El archivo .sql correspondiente al esquema de la BBDD está disponible en el rep
 
 ## 📝 SQL con las diferentes consultas
 El archivo .sql con los enunciados de los problemas planteados, así como las consultas que los resuelven, está disponible en el repositorio con el nombre _BBDD_Proyecto_shakila_Miguel_Encinas.sql_.
+
+De maner similar, el archivo plano _SQL_Code.txt_ musetra todo el código utilizado para este proyecto.
